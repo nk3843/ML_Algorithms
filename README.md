@@ -1,1 +1,1 @@
-# ML_Algorithms
+# ML Algos
